@@ -5,6 +5,6 @@ var server = require('./lib/servers')
 var port = process.env.PORT || 5000
 server().listen(port)
 console.log('second working stage');
-console.log('working with on port ' + port);
-console.log(name, 'listening on port', port)
+console.log('with on port ' + port);
+console.log(name, 'aa pot par sambhale che  on port', port)
 console.log('hello');
